@@ -30,7 +30,7 @@ namespace zypp
     /**
      *
      */
-    class UrlResolverPlugin
+    class ZYPP_API UrlResolverPlugin
     {
       friend std::ostream & operator<<( std::ostream & str, const UrlResolverPlugin & obj );
 
